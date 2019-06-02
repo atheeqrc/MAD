@@ -1,0 +1,70 @@
+<resources>
+    <string name="app_name">CommercialBank</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="transaction">Transactions To Commercial Accounts.</string>
+    <string name="TM_attr1">Account No     :</string>
+    <string name="TM_attr2">Target Account :</string>
+    <string name="TM_attr3">Date           :</string>
+    <string name="TM_attr4">Amount         :</string>
+    <string name="TM_btn1">Submit Transact</string>
+    <string name="TM_btn2">View Transacts</string>
+
+    <string name="EnterUsername">Enter Username</string>
+    <string name="EnterPassword">Enter Password</string>
+    <string name="Login">Login</string>
+    <string name="Register">Register</string>
+
+
+    <string name="FirstName">First Name</string>
+    <string name="LastName">Last Name</string>
+    <string name="AccountNumber">Account Number</string>
+    <string name="SecurityCode">Security Code</string>
+    <string name="EmailAddress">Email Address</string>
+    <string name="Password">Password</string>
+    <string name="Username">Username</string>
+    <string name="ConfirmPassword">Confirm Password</string>
+
+    <string name="Username_">Username :</string>
+    <string name="ComplaintType_">Complaint Type :</string>
+    <string name="Entertype">Enter type</string>
+    <string name="Complaint_">Complaint :</string>
+    <string name="EnterComplaint">Enter Complaint</string>
+    <string name="AddComplaint">Add Complaint</string>
+    <string name="ViewAllComplaint">View All Complaint</string>
+    <string name="UPDATECOMPLAINT">UPDATE COMPLAINT</string>
+
+    <string name="ComplaintID_">Complaint ID :</string>
+    <string name="ComplaintID">Complaint ID</string>
+
+    <string name="LoanPaymentCalculator">Loan Payment Calculator</string>
+    <string name="LoanAmount_">Loan Amount :</string>
+    <string name="EnterAmount">Enter Amount</string>
+    <string name="Interest_">Interest (in %):</string>
+    <string name="EnterInterest">Enter Interest</string>
+    <string name="Months_">Months :</string>
+    <string name="EnterMonths">Enter Months</string>
+    <string name="CalculateLoanAmount">Calculate Loan Amount</string>
+    <string name="MonthlyPayment_">Monthly Payment :</string>
+    <string name="TotalPayment_">Total Payment :</string>
+    <string name="UPDATELOAN">UPDATE LOAN</string>
+    <string name="APPLYLOAN">APPLY LOAN</string>
+
+    <string name="LoanType_">Loan Type :</string>
+
+    <string name="Comments_">Comments :</string>
+    <string name="EnterComments">Enter Comments</string>
+    <string name="ApplyLoan">Apply Loan</string>
+    <string name="VIEWLOAN">VIEW LOAN</string>
+    <string name="DELETELOAN">DELETE LOAN</string>
+
+    <string name="FirstName_">First Name :</string>
+    <string name="LastName_">Last Name :</string>
+    <string name="AccountNumber_">Account Number :</string>
+    <string name="SecurityCode_">Security Code :</string>
+    <string name="Email_">Email :</string>
+    <string name="Password_">Password :</string>
+    <string name="ConfirmPassword_">Confirm Password :</string>
+
+
+</resources>

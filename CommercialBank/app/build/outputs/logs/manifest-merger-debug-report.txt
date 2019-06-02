@@ -1,0 +1,132 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\aa67ed5c9fcc8db3820f08b8e8dbba5f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e096145cbe8d7899feb826f14650ceb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c07c00f18b383b88d65cdda30b644e15\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2e3ef80ff412567b07a23f856130cdeb\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c18c1a2ee87006f944c23106296c1a3f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5732e8a8e4b784b3f58d794987cd6757\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fcd0cb22af9fad1ef25eafc25f49d9bf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\458736c0d1b82c0499b725571e4e94c6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c61d7ed0a18b599ed32d66058484e885\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\015715309ce3b5ffdfe02b926f8742e0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\8c241272be2cf0c42b430e1250f27399\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ec40e3e59541780349bbbddc19a2e656\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cd609cb2dac1f2e037bf113d54f9ac58\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\37aa98d0c38e8c80724e0ec10b451c6f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5543ef5e797f9afd229b98cfa55bfd34\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55cfe8000020f3525e370f3b5f678d3c\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9e74cfcbf1857c4273dff0d8c3d95180\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+	package
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:1-30:12
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c07c00f18b383b88d65cdda30b644e15\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c07c00f18b383b88d65cdda30b644e15\AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.example.asus.commercialbank.HomeActivity
+ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:12:9-14:68
+	android:theme
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:14:13-56
+	android:name
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:13:13-41
+activity#com.example.asus.commercialbank.Register
+ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:15:9-19:20
+	android:theme
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:17:13-54
+	android:name
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:16:13-37
+activity#com.example.asus.commercialbank.LoginActivity
+ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:20:9-27:20
+	android:theme
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:21:13-57
+	android:name
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:20:19-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml:25:27-74
+uses-sdk
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\aa67ed5c9fcc8db3820f08b8e8dbba5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\aa67ed5c9fcc8db3820f08b8e8dbba5f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e096145cbe8d7899feb826f14650ceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\4e096145cbe8d7899feb826f14650ceb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c07c00f18b383b88d65cdda30b644e15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\c07c00f18b383b88d65cdda30b644e15\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2e3ef80ff412567b07a23f856130cdeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2e3ef80ff412567b07a23f856130cdeb\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c18c1a2ee87006f944c23106296c1a3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\c18c1a2ee87006f944c23106296c1a3f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5732e8a8e4b784b3f58d794987cd6757\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\5732e8a8e4b784b3f58d794987cd6757\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fcd0cb22af9fad1ef25eafc25f49d9bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\fcd0cb22af9fad1ef25eafc25f49d9bf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\458736c0d1b82c0499b725571e4e94c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\458736c0d1b82c0499b725571e4e94c6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c61d7ed0a18b599ed32d66058484e885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\c61d7ed0a18b599ed32d66058484e885\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\015715309ce3b5ffdfe02b926f8742e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\015715309ce3b5ffdfe02b926f8742e0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\8c241272be2cf0c42b430e1250f27399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\8c241272be2cf0c42b430e1250f27399\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ec40e3e59541780349bbbddc19a2e656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\ec40e3e59541780349bbbddc19a2e656\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cd609cb2dac1f2e037bf113d54f9ac58\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\cd609cb2dac1f2e037bf113d54f9ac58\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\37aa98d0c38e8c80724e0ec10b451c6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\37aa98d0c38e8c80724e0ec10b451c6f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5543ef5e797f9afd229b98cfa55bfd34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5543ef5e797f9afd229b98cfa55bfd34\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55cfe8000020f3525e370f3b5f678d3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\55cfe8000020f3525e370f3b5f678d3c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9e74cfcbf1857c4273dff0d8c3d95180\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\ASUS\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\9e74cfcbf1857c4273dff0d8c3d95180\AndroidManifest.xml:20:5-44
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+		ADDED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml
+		INJECTED from D:\AndroidProjects\CommercialBank\app\src\main\AndroidManifest.xml

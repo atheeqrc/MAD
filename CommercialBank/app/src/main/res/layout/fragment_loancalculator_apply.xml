@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="30dp"
+        android:text="@string/Username_"
+        android:textStyle="bold"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/username_session_loan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginTop="200dp"
+
+        android:text="@string/Username"
+        android:textSize="20dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="250dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="30dp"
+        android:text="@string/LoanType_"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/loanType_loan"
+        android:layout_width="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_height="wrap_content"
+
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="240dp"
+        android:hint="@string/Entertype"
+        android:textAlignment="center"
+        android:textSize="20dp" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:textStyle="bold"
+        android:layout_marginLeft="30dp"
+        android:text="@string/Comments_"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/comment_loan"
+        android:layout_width="match_parent"
+        android:layout_marginRight="10dp"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginLeft="170dp"
+        android:layout_marginTop="290dp"
+        android:hint="@string/EnterComments"
+        android:textSize="20dp" />
+
+    <Button
+        android:layout_width="220dp"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:onClick="insertNewLoan"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="400dp"
+        android:textColor="@color/colorPrimary"
+
+        android:background="@android:color/transparent"
+        android:textStyle="bold"
+        android:text="@string/ApplyLoan" />
+
+    <Button
+        android:layout_width="260dp"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:onClick="viewAllLoan"
+        android:layout_marginLeft="75dp"
+
+        android:layout_marginTop="450dp"
+        android:textColor="@color/colorPrimary"
+
+        android:background="@android:color/transparent"
+        android:textStyle="bold"
+        android:text="@string/VIEWLOAN" />
+
+
+</RelativeLayout>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="180dp"
+        android:background="@color/colorPrimary">
+
+        <ImageView
+            android:paddingTop="10dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="130dp"
+            android:src="@mipmap/ic_launcher_foreground" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:textColor="@color/white"
+            android:layout_marginTop="130dp"
+            android:layout_marginLeft="100dp"
+            android:text="FirstName LastName"
+            android:id="@+id/fullname_profile"
+            android:textSize="20dp" />
+    </RelativeLayout>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="215dp"
+        android:textStyle="bold"
+        android:text="@string/FirstName_" />
+
+    <TextView
+        android:id="@+id/firstName_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="215dp"
+        android:text="FirstName" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="270dp"
+        android:textStyle="bold"
+        android:text="@string/LastName_" />
+
+    <TextView
+        android:id="@+id/lastName_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="190dp"
+        android:layout_marginTop="270dp"
+        android:text="LastName" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="320dp"
+        android:textStyle="bold"
+        android:text="@string/AccountNumber_" />
+
+
+    <TextView
+        android:id="@+id/accountNumber_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="220dp"
+        android:layout_marginTop="320dp"
+        android:text="00000000" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginTop="370dp"
+        android:textStyle="bold"
+        android:text="Account Balance :" />
+
+
+    <TextView
+        android:id="@+id/accountBalance_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="230dp"
+        android:layout_marginTop="370dp"
+        android:text="100000" />
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="420dp"
+        android:textStyle="bold"
+        android:text="@string/Email_" />
+
+
+    <TextView
+        android:id="@+id/email_profile"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="110dp"
+        android:layout_marginTop="420dp"
+        android:text="atheeqrc@gmail.com" />
+
+    <Button
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="475dp"
+        android:textColor="@color/colorPrimary"
+        android:background="@android:color/transparent"
+        android:textStyle="bold"
+        android:onClick="directToChangePinPage"
+        android:text="Change Pin" />
+
+    <Button
+        android:layout_width="140dp"
+        android:layout_height="60dp"
+        android:textSize="20dp"
+        android:layout_marginLeft="210dp"
+        android:layout_marginTop="470dp"
+        android:textColor="@color/colorPrimary"
+        android:background="@android:color/transparent"
+        android:textStyle="bold"
+        android:onClick="directToChangePassPage"
+        android:text="Change Password" />
+
+    <Button
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textSize="20dp"
+        android:onClick="directToUpdateProfilePage"
+        android:layout_marginLeft="90dp"
+        android:layout_marginTop="550dp"
+        android:textColor="@color/colorPrimary"
+
+        android:background="@android:color/transparent"
+        android:textStyle="bold"
+        android:text="Update Profile" />
+
+
+
+
+</RelativeLayout>

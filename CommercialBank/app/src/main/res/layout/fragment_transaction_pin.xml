@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="20dp"
+        android:text="Username :"
+        android:textSize="20dp"/>
+
+    <TextView
+        android:id="@+id/username_session_trans"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="180dp"
+        android:layout_marginTop="200dp"
+        android:text="username"
+        android:textSize="20dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="300dp"
+        android:layout_marginLeft="20dp"
+        android:text="Enter Pin :"
+        android:textSize="20dp"/>
+
+    <EditText
+        android:id="@+id/pin_pin"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="110dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginTop="290dp"
+        android:hint="Enter Pin"
+
+        android:inputType="numberPassword"
+        android:text=""
+        android:textAlignment="center"
+        android:textColor="@color/colorPrimary"
+        android:textColorHint="@android:color/darker_gray"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="150dp"
+        android:layout_marginTop="400dp"
+        android:onClick="validatePin"
+        android:padding="15dp"
+        android:text="Submit"
+        android:textColor="@color/colorPrimary"
+        android:textStyle="bold"
+        android:background="@android:color/transparent"
+        android:textSize="20dp"
+         />
+
+</RelativeLayout>
